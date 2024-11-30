@@ -18,5 +18,4 @@
 
 🌱 I’m currently learning Machine Learning</br>
 📫 How to reach me: akku.javid@gmail.com</br>
-😄 My Blog: instropeksiku.blogspot.com</br>
 
