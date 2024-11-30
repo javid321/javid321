@@ -11,6 +11,11 @@
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4ph6ddvWh9FCURnHT6Mjsw?style=flat&logo=youtube&logoSize=auto&label=YouTube">
 </a></p>
 
+<p>
+<a href="https://instropeksiku.blogspot.com">
+<img alt="My Blog" src="https://img.shields.io/website?url=https%3A%2F%2Finstropeksiku.blogspot.com%2F">
+</a></p>
+
 🌱 I’m currently learning Machine Learning</br>
 📫 How to reach me: akku.javid@gmail.com</br>
 😄 My Blog: instropeksiku.blogspot.com</br>
