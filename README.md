@@ -13,7 +13,7 @@
 
 <p>
 <a href="https://instropeksiku.blogspot.com">
-<img alt="My Blog" src="https://img.shields.io/website?url=https%3A%2F%2Finstropeksiku.blogspot.com%2F">
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Finstropeksiku.blogspot.com%2F&style=flat&logo=blogger&label=My%20Blog&color=white">
 </a></p>
 
 🌱 I’m currently learning Machine Learning</br>
